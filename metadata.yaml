@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '36286'
     url: http://www.gutenberg.org/2009/agents/36286
     wikipedia: https://en.wikipedia.org/wiki/Nathan_Haskell_Dole
+covers:
+- cover_type: archival
+  image_path: 63599-h/images/cover.jpg
 creator:
   author:
     agent_name: Suttner, Bertha von
@@ -27,6 +30,8 @@ creator:
     - https://en.wikipedia.org/wiki/Bertha_von_Suttner
     - https://fi.wikipedia.org/wiki/Bertha_von_Suttner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63599#When-Thoughts-Will-Soar-A-romance-of-the-immediate-future
 gutenberg_issued: '2020-11-02'
 gutenberg_type: Text
 identifiers:
