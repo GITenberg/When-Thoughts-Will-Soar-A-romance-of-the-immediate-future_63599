@@ -1,0 +1,48 @@
+_repo: When-Thoughts-Will-Soar-A-romance-of-the-immediate-future_63599
+_version: 0.0.1
+alternative_title: Der Menschheit Hochgedanken. English
+contributor:
+  translator:
+    agent_name: Dole, Nathan Haskell
+    alias: Dole, Nathen Haskell
+    birthdate: 1852
+    deathdate: 1935
+    gutenberg_agent_id: '36286'
+    url: http://www.gutenberg.org/2009/agents/36286
+    wikipedia: https://en.wikipedia.org/wiki/Nathan_Haskell_Dole
+creator:
+  author:
+    agent_name: Suttner, Bertha von
+    aliases:
+    - Kinsky von Wchinitz und Tettau, Bertha Sophia Felicita, Grafin
+    - Kinsky, Bertha Felicie Sophie, Freifrau von Suttner
+    - Von Suttner, Bertha
+    - Suttner, Bertha Felicie Sophie Kinsky, Freifrau von
+    - Kinsky von Wchinitz und Tettau, Bertha Sophia Felicita, Gräfin
+    birthdate: 1843
+    deathdate: 1914
+    gutenberg_agent_id: '7643'
+    url: http://www.gutenberg.org/2009/agents/7643
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Bertha_von_Suttner
+    - https://fi.wikipedia.org/wiki/Bertha_von_Suttner
+description: ''
+gutenberg_issued: '2020-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63599'
+  lccn: '14011353'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Feminism -- Fiction'
+- !lcsh 'Pacifism -- Fiction'
+- !lcsh 'Aeronautics -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Young women -- Fiction'
+- GITenberg
+title: 'When Thoughts Will Soar: A romance of the immediate future'
+url: http://www.gutenberg.org/ebooks/63599
